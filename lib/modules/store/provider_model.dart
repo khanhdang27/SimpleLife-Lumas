@@ -1,0 +1,1 @@
+export 'package:lumas/modules/store/models/store.dart';

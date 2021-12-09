@@ -1,0 +1,10 @@
+export 'package:lumas/repositories/auth_repository.dart';
+export 'package:lumas/repositories/repository.dart';
+export 'package:lumas/modules/client/repositories/client_repository.dart';
+export 'package:lumas/modules/user/repositories/user_repository.dart';
+export 'package:lumas/modules/appointment/repositories/appointment_repository.dart';
+export 'package:lumas/modules/service/repositories/service_repository.dart';
+export 'package:lumas/modules/course/repositories/course_repository.dart';
+export 'package:lumas/modules/notification/repositories/notification_repository.dart';
+export 'package:lumas/modules/store/repositories/store_repository.dart';
+export 'package:lumas/modules/order/repositories/order_repository.dart';

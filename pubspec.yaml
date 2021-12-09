@@ -1,0 +1,60 @@
+name: lumas
+description: Simple Life
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.1.4
+  get_storage: ^2.0.2
+  dio: ^4.0.0
+  intl: ^0.17.00
+  pin_code_fields: ^7.0.0
+  firebase_auth: ^3.1.4
+  firebase_core: ^1.4.0
+  cupertino_icons: ^1.0.2
+  image_picker: ^0.8.2
+  image_cropper: ^1.4.1
+  qr_flutter: ^4.0.0
+  qr_code_scanner: ^0.5.2
+  signature: ^4.1.1
+  connectivity: ^3.0.6
+  android_alarm_manager_plus: ^1.1.0
+  flutter_local_notifications: ^8.1.1+1
+  url_launcher: ^6.0.10
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo.png
+    - assets/images/logo_2.png
+    - assets/images/logo_3.png
+    - assets/images/logo_4.png
+    - assets/images/success.png
+    - assets/images/background_service.jpg
+    - assets/images/course_background.jpg
+    - assets/images/no_internet.png
+    - assets/images/authen.png
+
+  fonts:
+    - family: Inter
+      fonts:
+        - asset: assets/fonts/Inter-Black.ttf
+        - asset: assets/fonts/Inter-Bold.ttf
+        - asset: assets/fonts/Inter-ExtraBold.ttf
+        - asset: assets/fonts/Inter-ExtraLight.ttf
+        - asset: assets/fonts/Inter-Light.ttf
+        - asset: assets/fonts/Inter-Medium.ttf
+        - asset: assets/fonts/Inter-Regular.ttf
+        - asset: assets/fonts/Inter-SemiBold.ttf
+        - asset: assets/fonts/Inter-Thin.ttf

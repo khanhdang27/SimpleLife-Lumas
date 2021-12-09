@@ -1,0 +1,1 @@
+export 'package:lumas/modules/notification/models/notification.dart';

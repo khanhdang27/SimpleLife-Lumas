@@ -1,0 +1,1 @@
+export 'package:lumas/modules/appointment/screens/detail_screen.dart';

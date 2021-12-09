@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419951301549",
+    "project_id": "lumas-4a42e",
+    "storage_bucket": "lumas-4a42e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419951301549:android:a31f9be16ccc17e1b20724",
+        "android_client_info": {
+          "package_name": "com.baseproject.lumas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419951301549-s0qfj9dlf64vh0u06ku21ms6iprdsi1u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.baseproject.lumas",
+            "certificate_hash": "008b9d3d66c24ab05b9354f67afa16a726243b8d"
+          }
+        },
+        {
+          "client_id": "419951301549-7f3osgqutq3b1f8l28to68g1i2vho0sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWFZypaurPEg7yMXjRijPQ0kRzWpobji8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419951301549-7f3osgqutq3b1f8l28to68g1i2vho0sn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
