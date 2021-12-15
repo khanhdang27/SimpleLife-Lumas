@@ -1,5 +1,5 @@
 class AppConfig {
-  static final baseUrl = 'https://project.nironcrm.tk/simplelife/public';
+  static final baseUrl = 'http://simplelife.nirondemo.tk/';
   static final baseApiUrl = AppConfig.baseUrl + '/api';
   static final confirmPayment = AppConfig.baseUrl + '/api/payment/success';
   static final successPayment =
